@@ -1,0 +1,215 @@
+<svg width="860" height="420" viewBox="0 0 860 420" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>John Willbert — Developer Dashboard</title>
+  <desc>Dashboard showing skill proficiency bars, tech stack split donut, monthly activity bars, and career timeline for John Willbert, Front-End Developer.</desc>
+
+  <!-- Background -->
+  <rect width="860" height="420" fill="#0d1117" rx="16"/>
+
+  <!-- ─── TOP HEADER STRIP ─── -->
+  <rect width="860" height="52" fill="#161b22" rx="0"/>
+  <rect width="860" height="52" fill="#161b22"/>
+  <rect x="0" y="0" width="860" height="16" fill="#161b22"/>
+  <rect x="0" y="0" width="860" height="52" rx="16"/>
+  <rect x="0" y="36" width="860" height="16" fill="#161b22"/>
+
+  <circle cx="30" cy="26" r="6" fill="#ff5f57"/>
+  <circle cx="50" cy="26" r="6" fill="#febc2e"/>
+  <circle cx="70" cy="26" r="6" fill="#28c840"/>
+  <text x="110" y="31" font-family="'Segoe UI',monospace" font-size="13" fill="#8b949e">John Willbert</text>
+  <text x="230" y="31" font-family="monospace" font-size="13" fill="#3fb950">/</text>
+  <text x="244" y="31" font-family="'Segoe UI',monospace" font-size="13" fill="#58a6ff">developer-dashboard.svg</text>
+  <text x="660" y="31" font-family="'Segoe UI',monospace" font-size="12" fill="#8b949e">Front-End Developer  •  Chennai, India</text>
+
+  <!-- ─── CARD BACKGROUNDS ─── -->
+  <!-- Skill Proficiency card -->
+  <rect x="16" y="68" width="260" height="336" fill="#161b22" rx="10" stroke="#30363d" stroke-width="0.8"/>
+  <!-- Tech Stack Donut card -->
+  <rect x="292" y="68" width="260" height="160" fill="#161b22" rx="10" stroke="#30363d" stroke-width="0.8"/>
+  <!-- Monthly Activity card -->
+  <rect x="292" y="244" width="260" height="160" fill="#161b22" rx="10" stroke="#30363d" stroke-width="0.8"/>
+  <!-- Timeline card -->
+  <rect x="568" y="68" width="276" height="336" fill="#161b22" rx="10" stroke="#30363d" stroke-width="0.8"/>
+
+  <!-- ─── SKILL PROFICIENCY ─── -->
+  <text x="28" y="90" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e" letter-spacing="0.06em">SKILL PROFICIENCY</text>
+
+  <!-- React.js  90% -->
+  <text x="28" y="120" font-family="'Segoe UI',sans-serif" font-size="12" fill="#c9d1d9">React.js</text>
+  <text x="267" y="120" font-family="'Segoe UI',sans-serif" font-size="12" fill="#58a6ff" text-anchor="end">90%</text>
+  <rect x="28" y="124" width="232" height="5" fill="#21262d" rx="3"/>
+  <rect x="28" y="124" width="208" height="5" fill="#58a6ff" rx="3"/>
+
+  <!-- TypeScript  80% -->
+  <text x="28" y="150" font-family="'Segoe UI',sans-serif" font-size="12" fill="#c9d1d9">TypeScript</text>
+  <text x="267" y="150" font-family="'Segoe UI',sans-serif" font-size="12" fill="#3178c6" text-anchor="end">80%</text>
+  <rect x="28" y="154" width="232" height="5" fill="#21262d" rx="3"/>
+  <rect x="28" y="154" width="186" height="5" fill="#3178c6" rx="3"/>
+
+  <!-- JavaScript  85% -->
+  <text x="28" y="180" font-family="'Segoe UI',sans-serif" font-size="12" fill="#c9d1d9">JavaScript</text>
+  <text x="267" y="180" font-family="'Segoe UI',sans-serif" font-size="12" fill="#e3b341" text-anchor="end">85%</text>
+  <rect x="28" y="184" width="232" height="5" fill="#21262d" rx="3"/>
+  <rect x="28" y="184" width="197" height="5" fill="#e3b341" rx="3"/>
+
+  <!-- Tailwind CSS  85% -->
+  <text x="28" y="210" font-family="'Segoe UI',sans-serif" font-size="12" fill="#c9d1d9">Tailwind CSS</text>
+  <text x="267" y="210" font-family="'Segoe UI',sans-serif" font-size="12" fill="#38bdf8" text-anchor="end">85%</text>
+  <rect x="28" y="214" width="232" height="5" fill="#21262d" rx="3"/>
+  <rect x="28" y="214" width="197" height="5" fill="#38bdf8" rx="3"/>
+
+  <!-- Redux Toolkit  75% -->
+  <text x="28" y="240" font-family="'Segoe UI',sans-serif" font-size="12" fill="#c9d1d9">Redux Toolkit</text>
+  <text x="267" y="240" font-family="'Segoe UI',sans-serif" font-size="12" fill="#a78bfa" text-anchor="end">75%</text>
+  <rect x="28" y="244" width="232" height="5" fill="#21262d" rx="3"/>
+  <rect x="28" y="244" width="174" height="5" fill="#a78bfa" rx="3"/>
+
+  <!-- REST API  80% -->
+  <text x="28" y="270" font-family="'Segoe UI',sans-serif" font-size="12" fill="#c9d1d9">REST API / Axios</text>
+  <text x="267" y="270" font-family="'Segoe UI',sans-serif" font-size="12" fill="#34d399" text-anchor="end">80%</text>
+  <rect x="28" y="274" width="232" height="5" fill="#21262d" rx="3"/>
+  <rect x="28" y="274" width="186" height="5" fill="#34d399" rx="3"/>
+
+  <!-- Git / GitHub  78% -->
+  <text x="28" y="300" font-family="'Segoe UI',sans-serif" font-size="12" fill="#c9d1d9">Git / GitHub</text>
+  <text x="267" y="300" font-family="'Segoe UI',sans-serif" font-size="12" fill="#f0883e" text-anchor="end">78%</text>
+  <rect x="28" y="304" width="232" height="5" fill="#21262d" rx="3"/>
+  <rect x="28" y="304" width="181" height="5" fill="#f0883e" rx="3"/>
+
+  <!-- HTML5 / CSS3  90% -->
+  <text x="28" y="330" font-family="'Segoe UI',sans-serif" font-size="12" fill="#c9d1d9">HTML5 / CSS3</text>
+  <text x="267" y="330" font-family="'Segoe UI',sans-serif" font-size="12" fill="#f97316" text-anchor="end">90%</text>
+  <rect x="28" y="334" width="232" height="5" fill="#21262d" rx="3"/>
+  <rect x="28" y="334" width="208" height="5" fill="#f97316" rx="3"/>
+
+  <!-- VS Code  82% -->
+  <text x="28" y="360" font-family="'Segoe UI',sans-serif" font-size="12" fill="#c9d1d9">VS Code / npm</text>
+  <text x="267" y="360" font-family="'Segoe UI',sans-serif" font-size="12" fill="#007acc" text-anchor="end">82%</text>
+  <rect x="28" y="364" width="232" height="5" fill="#21262d" rx="3"/>
+  <rect x="28" y="364" width="190" height="5" fill="#007acc" rx="3"/>
+
+  <!-- ─── TECH STACK DONUT (manual arcs) ─── -->
+  <text x="304" y="90" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e" letter-spacing="0.06em">TECH STACK FOCUS</text>
+
+  <!-- Donut center -->
+  <circle cx="390" cy="158" r="44" fill="#0d1117"/>
+  <text x="390" y="154" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Total</text>
+  <text x="390" y="170" font-family="'Segoe UI',sans-serif" font-size="14" fill="#c9d1d9" font-weight="600" text-anchor="middle">100%</text>
+
+  <!-- Donut arcs (r=54, circumference=339.3) — manual stroke-dasharray slices -->
+  <!-- React 40% = 135.7 -->
+  <circle cx="390" cy="158" r="54" fill="none" stroke="#58a6ff" stroke-width="14"
+    stroke-dasharray="135.7 339.3" stroke-dashoffset="84.8" stroke-linecap="butt"/>
+  <!-- TypeScript 25% = 84.8 -->
+  <circle cx="390" cy="158" r="54" fill="none" stroke="#3178c6" stroke-width="14"
+    stroke-dasharray="84.8 339.3" stroke-dashoffset="-50.9" stroke-linecap="butt"/>
+  <!-- Tailwind 15% = 50.9 -->
+  <circle cx="390" cy="158" r="54" fill="none" stroke="#38bdf8" stroke-width="14"
+    stroke-dasharray="50.9 339.3" stroke-dashoffset="-135.7" stroke-linecap="butt"/>
+  <!-- Redux 12% = 40.7 -->
+  <circle cx="390" cy="158" r="54" fill="none" stroke="#a78bfa" stroke-width="14"
+    stroke-dasharray="40.7 339.3" stroke-dashoffset="-186.6" stroke-linecap="butt"/>
+  <!-- REST 8% = 27.1 -->
+  <circle cx="390" cy="158" r="54" fill="none" stroke="#34d399" stroke-width="14"
+    stroke-dasharray="27.1 339.3" stroke-dashoffset="-227.3" stroke-linecap="butt"/>
+
+  <!-- Donut Legend -->
+  <rect x="458" y="105" width="8" height="8" fill="#58a6ff" rx="2"/>
+  <text x="470" y="114" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e">React.js 40%</text>
+  <rect x="458" y="121" width="8" height="8" fill="#3178c6" rx="2"/>
+  <text x="470" y="130" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e">TypeScript 25%</text>
+  <rect x="458" y="137" width="8" height="8" fill="#38bdf8" rx="2"/>
+  <text x="470" y="146" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e">Tailwind 15%</text>
+  <rect x="458" y="153" width="8" height="8" fill="#a78bfa" rx="2"/>
+  <text x="470" y="162" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e">Redux 12%</text>
+  <rect x="458" y="169" width="8" height="8" fill="#34d399" rx="2"/>
+  <text x="470" y="178" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e">REST API 8%</text>
+
+  <!-- ─── MONTHLY ACTIVITY ─── -->
+  <text x="304" y="266" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e" letter-spacing="0.06em">MONTHLY ACTIVITY — 2025</text>
+
+  <!-- Bar chart: months Apr-Dec, values: 30 40 45 50 48 55 60 58 65 -->
+  <!-- max=65, scale: (val/65)*85 = bar height, baseline y=392 -->
+  <!-- bar width=20, gap=6, start x=304 -->
+
+  <!-- Apr: 30 → 39px -->
+  <rect x="308" y="353" width="20" height="39" fill="#1f6feb" rx="3"/>
+  <text x="318" y="402" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Apr</text>
+  <!-- May: 40 → 52px -->
+  <rect x="334" y="340" width="20" height="52" fill="#1f6feb" rx="3"/>
+  <text x="344" y="402" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">May</text>
+  <!-- Jun: 45 → 59px -->
+  <rect x="360" y="333" width="20" height="59" fill="#388bfd" rx="3"/>
+  <text x="370" y="402" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Jun</text>
+  <!-- Jul: 50 → 65px -->
+  <rect x="386" y="327" width="20" height="65" fill="#388bfd" rx="3"/>
+  <text x="396" y="402" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Jul</text>
+  <!-- Aug: 48 → 63px -->
+  <rect x="412" y="329" width="20" height="63" fill="#388bfd" rx="3"/>
+  <text x="422" y="402" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Aug</text>
+  <!-- Sep: 55 → 72px -->
+  <rect x="438" y="320" width="20" height="72" fill="#58a6ff" rx="3"/>
+  <text x="448" y="402" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Sep</text>
+  <!-- Oct: 60 → 78px -->
+  <rect x="464" y="314" width="20" height="78" fill="#58a6ff" rx="3"/>
+  <text x="474" y="402" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Oct</text>
+  <!-- Nov: 58 → 76px -->
+  <rect x="490" y="316" width="20" height="76" fill="#58a6ff" rx="3"/>
+  <text x="500" y="402" font-family="'Segoe UI',sans-serif" font-size="9" fill="#8b949e" text-anchor="middle">Nov</text>
+  <!-- Dec: 65 → 85px (max, highlight) -->
+  <rect x="516" y="307" width="20" height="85" fill="#79c0ff" rx="3"/>
+  <text x="526" y="402" font-family="'Segoe UI',sans-serif" font-size="9" fill="#79c0ff" text-anchor="middle">Dec</text>
+
+  <!-- baseline -->
+  <line x1="304" y1="393" x2="544" y2="393" stroke="#30363d" stroke-width="0.8"/>
+
+  <!-- ─── CAREER TIMELINE ─── -->
+  <text x="580" y="90" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e" letter-spacing="0.06em">CAREER TIMELINE</text>
+
+  <!-- Timeline vertical line -->
+  <line x1="598" y1="104" x2="598" y2="378" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Node 1: BCA  2021-2024 -->
+  <circle cx="598" cy="116" r="5" fill="#3b6d11" stroke="#0d1117" stroke-width="2"/>
+  <text x="612" y="114" font-family="'Segoe UI',sans-serif" font-size="12" fill="#c9d1d9" font-weight="600">BCA Graduate</text>
+  <text x="612" y="128" font-family="'Segoe UI',sans-serif" font-size="10" fill="#8b949e">St. Joseph's College, Tiruchirappalli</text>
+  <text x="612" y="141" font-family="'Segoe UI',sans-serif" font-size="10" fill="#3fb950">2021 – 2024  •  CGPA 7.21</text>
+
+  <!-- Node 2: GTE Cert Feb 2024 -->
+  <circle cx="598" cy="172" r="5" fill="#e3b341" stroke="#0d1117" stroke-width="2"/>
+  <text x="612" y="170" font-family="'Segoe UI',sans-serif" font-size="12" fill="#c9d1d9" font-weight="600">GTE Typewriting Cert.</text>
+  <text x="612" y="184" font-family="'Segoe UI',sans-serif" font-size="10" fill="#8b949e">Directorate of Technical Education, TN</text>
+  <text x="612" y="197" font-family="'Segoe UI',sans-serif" font-size="10" fill="#e3b341">Feb 2024</text>
+
+  <!-- Node 3: FE Cert Jun-Oct 2024 -->
+  <circle cx="598" cy="228" r="5" fill="#f97316" stroke="#0d1117" stroke-width="2"/>
+  <text x="612" y="226" font-family="'Segoe UI',sans-serif" font-size="12" fill="#c9d1d9" font-weight="600">Front-End Dev Certification</text>
+  <text x="612" y="240" font-family="'Segoe UI',sans-serif" font-size="10" fill="#8b949e">Greens Technology, Velachery</text>
+  <text x="612" y="253" font-family="'Segoe UI',sans-serif" font-size="10" fill="#f97316">Jun – Oct 2024</text>
+
+  <!-- Node 4: Emayam Apr 2025 -->
+  <circle cx="598" cy="292" r="6" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
+  <rect x="609" y="278" width="224" height="52" fill="#1f3a5f" rx="6" stroke="#1f6feb" stroke-width="0.8"/>
+  <text x="621" y="294" font-family="'Segoe UI',sans-serif" font-size="12" fill="#79c0ff" font-weight="600">Front-End Developer</text>
+  <text x="621" y="308" font-family="'Segoe UI',sans-serif" font-size="10" fill="#8b949e">Emayam Technologies Pvt Ltd</text>
+  <text x="621" y="322" font-family="'Segoe UI',sans-serif" font-size="10" fill="#58a6ff">Apr 2025 – Present  •  Velachery</text>
+
+  <!-- Live badge -->
+  <circle cx="826" cy="283" r="4" fill="#3fb950"/>
+  <text x="832" y="287" font-family="'Segoe UI',sans-serif" font-size="10" fill="#3fb950">Live</text>
+
+  <!-- Tags for current role -->
+  <rect x="612" y="340" width="44" height="16" fill="#21262d" rx="4"/>
+  <text x="634" y="352" font-family="'Segoe UI',sans-serif" font-size="9" fill="#58a6ff" text-anchor="middle">React</text>
+  <rect x="662" y="340" width="56" height="16" fill="#21262d" rx="4"/>
+  <text x="690" y="352" font-family="'Segoe UI',sans-serif" font-size="9" fill="#3178c6" text-anchor="middle">TypeScript</text>
+  <rect x="724" y="340" width="44" height="16" fill="#21262d" rx="4"/>
+  <text x="746" y="352" font-family="'Segoe UI',sans-serif" font-size="9" fill="#38bdf8" text-anchor="middle">Tailwind</text>
+  <rect x="774" y="340" width="36" height="16" fill="#21262d" rx="4"/>
+  <text x="792" y="352" font-family="'Segoe UI',sans-serif" font-size="9" fill="#a78bfa" text-anchor="middle">Redux</text>
+
+  <!-- ─── BOTTOM STAT STRIP ─── -->
+  <rect x="16" y="390" width="260" height="20" fill="#161b22" rx="5"/>
+  <text x="28" y="403" font-family="'Segoe UI',sans-serif" font-size="10" fill="#8b949e">Avg. proficiency across 9 skills:</text>
+  <text x="210" y="403" font-family="'Segoe UI',sans-serif" font-size="10" fill="#58a6ff" font-weight="600">83%</text>
+
+</svg>
