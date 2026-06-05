@@ -196,7 +196,7 @@ const johnWillbert = {
 
 [![Email Me](https://img.shields.io/badge/📧%20Email%20Me-johnwillbert260%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnwillbert260@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/🔗%20Connect%20on%20LinkedIn-John%20Willbert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-willbert)
+[![LinkedIn](https://img.shields.io/badge/🔗%20Connect%20on%20LinkedIn-John%20Willbert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnwillbert)
 
 <br/>
 
