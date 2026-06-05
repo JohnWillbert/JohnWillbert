@@ -201,3 +201,34 @@ const johnWillbert = {
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=footer&animation=twinkling" width="100%"/>
+
+---
+
+## 📊 Developer Dashboard
+
+<div align="center">
+
+### ⚡ Skill Proficiency
+
+| Skill | Proficiency | Level |
+|:--|:--|:--|
+| ⚛️ React.js | `█████████░` 90% | Advanced |
+| 🔷 TypeScript | `████████░░` 80% | Advanced |
+| 🟨 JavaScript (ES6+) | `████████░░` 85% | Advanced |
+| 🎨 Tailwind CSS | `████████░░` 85% | Advanced |
+| 🔴 Redux Toolkit | `███████░░░` 75% | Intermediate |
+| 🔗 REST API / Axios | `████████░░` 80% | Advanced |
+| 🌿 Git / GitHub | `███████░░░` 78% | Intermediate |
+| 🏗️ HTML5 / CSS3 | `█████████░` 90% | Advanced |
+
+### 🥧 Tech Focus Split
+
+| Technology | Focus Share | Role |
+|:--|:--:|:--|
+| ⚛️ React.js | 40% | Core UI framework |
+| 🔷 TypeScript | 25% | Type-safe development |
+| 🎨 Tailwind CSS | 15% | Styling & responsive design |
+| 🔴 Redux Toolkit | 12% | State management |
+| 🔗 REST API | 8% | Data integration |
+
+</div>
