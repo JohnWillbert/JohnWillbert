@@ -21,7 +21,7 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-johnwillbert260%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnwillbert260@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Willbert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-willbert)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Willbert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnwillbert)
 [![Location](https://img.shields.io/badge/📍_Chennai-Tamil%20Nadu%2C%20India-8957e5?style=for-the-badge)](https://maps.google.com/?q=Chennai,India)
 [![Status](https://img.shields.io/badge/💼_Status-Open%20to%20Work-238636?style=for-the-badge)](mailto:johnwillbert260@gmail.com)
 
